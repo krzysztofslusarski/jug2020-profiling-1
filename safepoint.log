@@ -1,0 +1,4 @@
+[2019-11-16T01:29:03.746+0100][12023.458s][13548][info ][safepoint   ] Application time: 1.0000887 seconds
+[2019-11-16T01:29:03.746+0100][12023.458s][13548][info ][safepoint   ] Entering safepoint region: Cleanup
+[2019-11-16T01:29:03.746+0100][12023.458s][13548][info ][safepoint   ] Leaving safepoint region
+[2019-11-16T01:29:03.746+0100][12023.458s][13548][info ][safepoint   ] Total time for which application threads were stopped: 0.0002545 seconds, Stopping threads took: 0.0000686 seconds
